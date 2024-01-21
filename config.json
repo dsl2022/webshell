@@ -1,13 +1,16 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+
+  "  ██████╗  █████╗ ██╗   ██╗██╗██████╗    ██╗     ",
+  "  ██╔══██╗██╔══██╗██║   ██║██║██╔══██╗   ██║     ",
+  "  ██║  ██║███████║██║   ██║██║██║  ██║   ██║     ",
+  "  ██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║   ██║     ",
+  "  ██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝██╗███████╗",
+  "  ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ ╚═╝╚══════╝"
+                                                   
+    
   ],
-  "title": "WebShell",
+  "title": "Shell",
   "username": "visitor",
   "hostname": "webshell",
   "password": "050823",
@@ -20,14 +23,19 @@
   "aboutGreeting": "Hi stranger. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "Creditcard App",
+      "AWS serverless, NodeJS",
+      "https://github.com/dsl2022/creditcared-banking-backend-infra"
     ],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "LLM api agent",
+      "Npm package for LLM interacts with API",
+      "https://github.com/dsl2022/llm-api-agent"
+    ],
+    [
+      "Twitter Poem Bot",
+      "Python robot generates poems on twitter",
+      "https://github.com/dsl2022/twitter-poem-bot-chatgpt"
     ]
   ],
   "colors": {
